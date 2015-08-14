@@ -1,0 +1,10 @@
+{
+  "name": "EchoGreeter",
+  "version": "0.0.0",
+  "description": "EchoGreeter",
+  "main": "server.js",
+  "author": {
+    "name": "Andy McDonald",
+    "email": ""
+  }
+}
